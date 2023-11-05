@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
-Prodigy InfoTech Task 2 - Stopwatch Web Application
+# PRODIGY_WD_04
+Prodigy InfoTech Task 2 - Personal Portfolio
